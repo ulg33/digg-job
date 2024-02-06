@@ -1,0 +1,1 @@
+curl -X DELETE -H "Content-Type: application/json" -d '{"name":"Ludde Luddson","address":"Hittepåvägen 13, 6742143 Staden","email":"ludde@ludd.org","telephone":"555-21343"}' http://localhost:8080/digg/user
