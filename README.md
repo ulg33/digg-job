@@ -1,6 +1,8 @@
 # job
 
-This project uses Quarkus and Vue
+This project uses Quarkus and Vue.  
+The Vue application lives in src/main/webapp
+and is added on maven package goal to src/main/resources/META_INF
 
 ## Running the application in dev mode
 
